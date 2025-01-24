@@ -8,3 +8,4 @@ PyPDF2
 pymupdf
 google-generativeai
 transformers
+pydantic
